@@ -10,4 +10,9 @@ public class MainController {
 	public String main() {
 		return "main";
 	}
+	
+	@RequestMapping("/")
+	public String mainJsp() {
+		return "main";
+	}
 }
