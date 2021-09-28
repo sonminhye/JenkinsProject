@@ -18,3 +18,5 @@
 
 #### 구현 중 이슈들
 
+* [링크](https://github.com/sonminhye/Today-I-Learned/tree/main/Jenkins/Issues)
+
